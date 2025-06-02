@@ -2,15 +2,15 @@
  <!--START_SECTION:waka-->
 
 ```rust
-From: 20 March 2025 - To: 30 May 2025
+From: 20 March 2025 - To: 02 June 2025
 
-Total Time: 246 hrs 30 mins
+Total Time: 252 hrs 56 mins
 
-Go                182 hrs 8 mins  >>>>>>>>>>>>>>>>>>-------   73.75 %
-TypeScript        55 hrs 10 mins  >>>>>>-------------------   22.34 %
-Bash              7 hrs 19 mins   >------------------------   02.97 %
-GraphQL           1 hr 13 mins    -------------------------   00.50 %
-Other             27 mins         -------------------------   00.19 %
+Go                185 hrs 8 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.06 %
+TypeScript        58 hrs 2 mins   ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.90 %
+Bash              7 hrs 48 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.08 %
+GraphQL           1 hr 13 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.49 %
+Other             27 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.18 %
 ```
 
 <!--END_SECTION:waka-->
