@@ -14,3 +14,7 @@ Other             27 mins         -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
+
+![JaribK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaribK&theme=vue-dark&hide_border=true)
+![JaribK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaribK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![JaribK's Stats](https://github-readme-stats.vercel.app/api?username=JaribK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
