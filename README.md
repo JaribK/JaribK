@@ -14,7 +14,6 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <strong>Good? Not for me — I'm just getting started.</strong><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=JaribK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=JaribK&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaribK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -39,4 +38,4 @@ Other             27 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-**ɢᴏᴏᴅ? ɴᴏᴛ ꜰᴏʀ ᴍᴇ — ɪ'ᴍ ᴊᴜꜱᴛ ɢᴇᴛᴛɪɴɢ ꜱᴛᴀʀᴛᴇᴅ 🔥**
+<p align="center">**ɢᴏᴏᴅ? ɴᴏᴛ ꜰᴏʀ ᴍᴇ — ɪ'ᴍ ᴊᴜꜱᴛ ɢᴇᴛᴛɪɴɢ ꜱᴛᴀʀᴛᴇᴅ 🔥**</p>
