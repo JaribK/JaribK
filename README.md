@@ -1,11 +1,15 @@
  <!--START_SECTION:waka-->
 
-```txt
-Go           26 hrs 56 mins  █████████████████▓░░░░░░░   70.45 %
-TypeScript   9 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-Bash         1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-GraphQL      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```rust
+From: 20 March 2025 - To: 30 May 2025
+
+Total Time: 246 hrs 30 mins
+
+Go                182 hrs 8 mins  >>>>>>>>>>>>>>>>>>-------   73.75 %
+TypeScript        55 hrs 10 mins  >>>>>>-------------------   22.34 %
+Bash              7 hrs 19 mins   >------------------------   02.97 %
+GraphQL           1 hr 13 mins    -------------------------   00.50 %
+Other             27 mins         -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
